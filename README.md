@@ -13,15 +13,11 @@ You can add users, list them in a table, edit their details and delete them. All
 - Client-side routing with no page reloads
 - Empty state ("No items") when there are no users
 
-## Tech Stack
+## 🛠️ Built With
 
-| Tool | Version | Purpose |
-| --- | --- | --- |
-| [React](https://react.dev/) | ^19 | UI library |
-| [React Router DOM](https://reactrouter.com/) | ^7 | Client-side routing |
-| [Bootstrap](https://getbootstrap.com/) | ^5.3 | Styling and components |
-| [Vite](https://vite.dev/) | ^8 | Dev server and build tool |
-| [ESLint](https://eslint.org/) | ^10 | Linting |
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,js,html,bootstrap" alt="Technologies used" />
+</p>
 
 ## Getting Started
 
