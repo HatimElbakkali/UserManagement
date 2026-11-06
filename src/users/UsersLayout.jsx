@@ -12,7 +12,7 @@ import {
 export default function UsersLayout() {
     return (
         <>
-            <BrowserRouter>
+            <BrowserRouter basename="/UserManagement">
                 <nav>
                     <ul className="nav justify-content-center">
                         <li className="nav-item">
@@ -29,7 +29,7 @@ export default function UsersLayout() {
                     </ul>
                 </nav>
                 <Routes>
-                    <Route index element={<UserTable />} />
+                    <Route path="/" element={<UserTable />} />
                     <Route path={'/users/create'} element={<UserAdd />} />
                     <Route path={'/users/:id/edit'} element={<UserEdit />} />
                     <Route path={'/users/:id/delete'} element={<UsersDelet />} />
