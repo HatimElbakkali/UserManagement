@@ -96,6 +96,13 @@ State management is done with **React Context** (`UsersContext`) defined in `Use
 - Add search, sorting and pagination to the table
 - Add unit tests
 
-## License
+## 📬 Connect
 
-This project is for learning purposes. Add a license of your choice if you plan to share it.
+If you want to see more of my work or contact me:
+Portfolio: [https://hatimelbakkali.web.app/](https://hatimelbakkali.web.app/)
+
+Thank you!
+
+---
+
+Made with ❤️ by **Hatim Elbakkali**.
